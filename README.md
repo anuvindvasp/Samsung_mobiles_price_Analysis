@@ -1,4 +1,6 @@
 # Samsung Mobiles Price Analysis
+![image](https://github.com/user-attachments/assets/6fbf2ff9-9a44-4f7e-bdd0-1f3a4525b0bc)
+
 
 
 ## Introduction
